@@ -48,7 +48,7 @@ namespace Homework7Classes
             Student myStudent = new Student();
             myStudent.FirstName = "Kevin";
             myStudent.LastName = "Duong";
-            myStudent.StudentID = 113101550;
+            myStudent.StudentID = 113101551;
 
             myStudent.ExamGrades = new List<double>();
             myStudent.ExamGrades.Add(88);
@@ -83,7 +83,7 @@ namespace Homework7Classes
             Student theStudent = new Student();
             theStudent.FirstName = "Jonathon";
             theStudent.LastName = "Cline";
-            theStudent.StudentID = 113346656;
+            theStudent.StudentID = 113346657;
 
             theStudent.ExamGrades = new List<double>();
             theStudent.ExamGrades.Add(90);
@@ -120,7 +120,7 @@ namespace Homework7Classes
             Student aStudent = new Student();
             aStudent.FirstName = "Parker";
             aStudent.LastName = "Austin";
-            aStudent.StudentID = 113768501;
+            aStudent.StudentID = 113768502;
 
             aStudent.ExamGrades = new List<double>();
             aStudent.ExamGrades.Add(65);
